@@ -1,0 +1,13 @@
+{
+  "shape": [
+    521,
+    720
+  ],
+  "shift": true,
+  "norm": "forward",
+  "center": "mean",
+  "log_scale": true,
+  "Lmin": 1.412788885879479e-09,
+  "Lmax": 0.09294787794351578,
+  "note": "Amplitude saved as (log1p(|F|) normalized to 0..255). Edit image and reload to reconstruct amplitude."
+}
